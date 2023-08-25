@@ -1,4 +1,15 @@
-# README
+# Bitespeed Assignment
+
+Deployed link = https://bitespeed-assignment-2c5o.onrender.com/
+Go to `/identify` endpoint and make a post request.
+
+Request body:
+```
+{
+    "email": "lorraine@hillvalley.edu",
+    "phoneNumber": "1234567"
+}
+```
 
 This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
 
